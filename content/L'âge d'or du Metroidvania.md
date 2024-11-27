@@ -1,5 +1,5 @@
 +++
-title = "L'âge d'or du Metroidvania"
+title = "L'âge d'or du Metroid vania"
 description = "A brief description of a custom Shortcode for Zola that implements loading and displaying external data."
 date = 2024-11-27T00:00:00Z
 draft = false
